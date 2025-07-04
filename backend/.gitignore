@@ -1,0 +1,9 @@
+node_modules
+# Keep environment variables out of version control
+.env
+
+/generated/prisma
+
+README.md
+ADMIN_SETUP.md
+CRYPTO_IMPLEMENTATION.md
